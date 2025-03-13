@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/plandomaker/static/css/main.f855e6bc.css",
+    "main.js": "/plandomaker/static/js/main.d7534ad9.js",
+    "static/js/453.0b7f548c.chunk.js": "/plandomaker/static/js/453.0b7f548c.chunk.js",
+    "static/media/logo.svg": "/plandomaker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/plandomaker/index.html",
+    "main.f855e6bc.css.map": "/plandomaker/static/css/main.f855e6bc.css.map",
+    "main.d7534ad9.js.map": "/plandomaker/static/js/main.d7534ad9.js.map",
+    "453.0b7f548c.chunk.js.map": "/plandomaker/static/js/453.0b7f548c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d7534ad9.js"
+  ]
+}
