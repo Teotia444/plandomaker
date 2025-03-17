@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/plandomaker/static/css/main.f855e6bc.css",
-    "main.js": "/plandomaker/static/js/main.d7534ad9.js",
+    "main.css": "/plandomaker/static/css/main.517d313a.css",
+    "main.js": "/plandomaker/static/js/main.ad467554.js",
     "static/js/453.0b7f548c.chunk.js": "/plandomaker/static/js/453.0b7f548c.chunk.js",
-    "static/media/logo.svg": "/plandomaker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Great_Sea_Chart.jpg": "/plandomaker/static/media/Great_Sea_Chart.cf83d26826abc7f233de.jpg",
+    "static/media/test.yaml": "/plandomaker/static/media/test.a44438f972d18e30b856.yaml",
     "index.html": "/plandomaker/index.html",
-    "main.f855e6bc.css.map": "/plandomaker/static/css/main.f855e6bc.css.map",
-    "main.d7534ad9.js.map": "/plandomaker/static/js/main.d7534ad9.js.map",
+    "main.517d313a.css.map": "/plandomaker/static/css/main.517d313a.css.map",
+    "main.ad467554.js.map": "/plandomaker/static/js/main.ad467554.js.map",
     "453.0b7f548c.chunk.js.map": "/plandomaker/static/js/453.0b7f548c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d7534ad9.js"
+    "static/css/main.517d313a.css",
+    "static/js/main.ad467554.js"
   ]
 }
